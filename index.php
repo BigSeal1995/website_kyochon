@@ -403,7 +403,7 @@
                         <li class="gnb3"><a href="#none">메뉴</a>
                             <ul class="gnb3_b">
                                 <li class="gnb3_1"><a href="menu_chicken.php">치킨</a></li>
-                                <li class="gnb3_2"><a href="menu_side.php">사이드222</a></li>
+                                <li class="gnb3_2"><a href="menu_side.php">사이드22233</a></li>
                                 <li class="gnb3_3"><a href="menu_voucher.php">상품권</a></li>
                             </ul>
                         </li>
